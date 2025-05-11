@@ -22,7 +22,7 @@ Clone the repository:
 bash
 Run
 Copy code
-git clone https://github.com/yourusername/airbnb-clone.git
+git clone devlop-suraj/Booking-App
 Navigate to the client directory:
 
 bash
